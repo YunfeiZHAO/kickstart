@@ -1,2 +1,0 @@
-# kickstart
-google kickstart competition
